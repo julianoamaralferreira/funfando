@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "autonumeric": "^4.0.0-beta.20",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "browser-sync": "^2.18.12",
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
